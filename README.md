@@ -1,6 +1,14 @@
-# bnavbar
+# google_nav_bar
 
 A new Flutter project.
+
+google_nav_bar #
+    
+
+A modern google style nav bar for flutter.
+
+
+
 
 ## Getting Started
 
